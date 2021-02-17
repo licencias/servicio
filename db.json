@@ -34,14 +34,7 @@
     }
   ],
   
-  "test":
-  {
-      "name": "Comercio C",
-      "code": "543219876",
-      "mall": "Wix mall",
-      "product": [
-        "Integración SDK"
-      ],
-      "state": "Inactive"
+  "profile": {
+    "name": "typicode"
   }
 }
