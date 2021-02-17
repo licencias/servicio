@@ -1,5 +1,5 @@
 {
-  "commerce": [
+  "commerce": {
     {
       "name": "Comercio A",
       "code": "123456789",
@@ -22,6 +22,6 @@
         "state": "Inactive"
       }
     
-  ]
+}
   
 }
