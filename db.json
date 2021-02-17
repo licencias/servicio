@@ -1,0 +1,27 @@
+{
+  "commerce": [
+    {
+      name: 'Comercio A',
+      code: '123456789',
+      mall: 'Wix mall',
+      product: ['POS', 'POS Mobile', 'POS Fijo', 'Integración SDK', 'Integración WIX'],
+      state: 'Active'
+    },
+    {
+        name: 'Comercio B',
+        code: '987654321',
+        mall: 'Wix mall',
+        product: ['Wix', 'POS Chip'],
+        state: 'Active'
+      },
+      {
+        name: 'Comercio C',
+        code: '543219876',
+        mall: 'Wix mall',
+        product: ['Integración SDK'],
+        state: 'Inactive'
+      }
+    
+  ]
+  
+}
