@@ -34,7 +34,17 @@
     }
   ],
   
-  "profile": {
-    "name": "typicode"
+  "test": {
+      "name": "Comercio A",
+      "code": "123456789",
+      "mall": "Wix mall",
+      "product": [
+        "POS",
+        "POS Mobile",
+        "POS Fijo",
+        "Integración SDK",
+        "Integración WIX"
+      ],
+      "state": "Active"
   }
 }
